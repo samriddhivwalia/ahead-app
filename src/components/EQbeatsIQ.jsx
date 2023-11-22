@@ -6,11 +6,11 @@ const EQbeatsIQ = () => {
       <div className="text-2xl font-bold p-4">EQ beats IQ</div>
       <div className="text-xl p-4">
         People with high emotional intelligence (EQ) live more fulfilled lives.
-        They tend to behappier and have healtheir relationships.
+        They tend to be happier and have healthier relationships.
       </div>
       <div className="text-xl p-4">
         They are more successful in their pursuits and make forinspiring
-        leaders. According to science, they earns $29 a year
+        leaders. According to science, they earn $29 a year
       </div>
     </section>
   );
