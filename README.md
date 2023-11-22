@@ -30,5 +30,5 @@ Start the server
   npm run dev
 ```
 
-Link to project : 
+Link to project : https://nextjs-samriddhis-projects-9d397a6c.vercel.app/
 
