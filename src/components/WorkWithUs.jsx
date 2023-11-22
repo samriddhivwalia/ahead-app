@@ -54,7 +54,7 @@ const WorkWithUs = () => {
                 <h2 className="font-bold">About</h2>
                 <p className="font-normal">
                   At ahead our goal is to make self-improvement fun and lasting. 
-                  We know there's a way how to make it work. And that is what ahead is all about!
+                  We know there is a way how to make it work. And that is what ahead is all about!
                 </p>
               </div>
 

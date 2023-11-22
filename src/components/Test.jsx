@@ -7,12 +7,11 @@ const Test = () => {
       <p className="text-center">We take privacy seriously</p>
       <p className="font-bold text-3xl">Before you get started</p>
       <p className="text-xl font-normal">
-      &quot;We won't share your answers with anyone.
-        <br /> (and won't ever tell you which friends said what about you)&quot;
+      &quot;We would not share your answers with anyone.
+        <br /> (and would not ever tell you which friends said what about you)&quot;
       </p>
       <div className="flex flex-row gap-2 items-center justify-center">
         <p className="">with love, </p>
-        <img src="/example.png"></img>
         {/* <motion.svg
           src="/team-ahead.png"
           width="170"
